@@ -9,7 +9,6 @@ This project was built for the **Code For Change** and helps users with career a
 - 🔥 Resume & job application tips
 - 🌐 Real-time industry insights
 
-![Alt Text](Landing Page.png)
 
 ## 🚀 Live Demo
 🔗 **[Click here to try it out!](https://hirelytic.vercel.app/)**
