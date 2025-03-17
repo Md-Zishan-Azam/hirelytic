@@ -11,7 +11,7 @@ This project was built for the **Code For Change** and helps users with career a
 
 
 ## 🚀 Live Demo
-🔗 **[Click here to try it out!](https://your-vercel-project.vercel.app/)**
+🔗 **[Click here to try it out!](https://hirelytic.vercel.app/)**
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, React, Tailwind CSS
