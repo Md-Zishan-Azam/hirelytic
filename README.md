@@ -1,20 +1,28 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
+# 🚀 AI Career Coach - Hackathon Project
 
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+Welcome to **AI Career Coach**, your personal AI-powered guide to professional success!  
+This project was built for the **Code For Change** and helps users with career advancement, interview preparation, and job search strategies.
 
-### Make sure to create a `.env` file with following variables -
+## 🌟 Features
+- 🎯 AI-powered career guidance
+- 🏆 Personalized interview prep
+- 🔥 Resume & job application tips
+- 🌐 Real-time industry insights
 
-```
-DATABASE_URL=
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
+## 🚀 Live Demo
+🔗 **[Click here to try it out!](https://your-vercel-project.vercel.app/)**
 
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend:** Node.js, Prisma, PostgreSQL
+- **Authentication:** Clerk
+- **Deployment:** Vercel
 
-GEMINI_API_KEY=
-```
+## 📦 Installation
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/ai-career-coach.git
+cd ai-career-coach
+npm install
